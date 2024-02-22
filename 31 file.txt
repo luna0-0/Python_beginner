@@ -1,0 +1,2 @@
+This is mode write of the file.
+This line is added using append.
